@@ -1,4 +1,3 @@
-// TodoDbHelper.kt dosyasını oluşturun
 package com.example.todoapp.data
 
 import android.content.ContentValues
@@ -7,6 +6,9 @@ import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import com.example.todoapp.model.Todo
+import dagger.hilt.android.qualifiers.ApplicationContext
+import javax.inject.Inject
+import javax.inject.Singleton
 
 @Singleton
 class TodoDbHelper @Inject constructor(
