@@ -1,4 +1,3 @@
-// Todo.kt dosyasını oluşturun
 package com.example.todoapp.model
 
 data class Todo(

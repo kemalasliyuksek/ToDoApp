@@ -1,4 +1,3 @@
-// di/AppModule.kt (yeni dosya)
 package com.example.todoapp.di
 
 import android.content.Context

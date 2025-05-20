@@ -1,4 +1,3 @@
-// MainActivity.kt (güncelleme)
 package com.example.todoapp
 
 import android.content.Intent

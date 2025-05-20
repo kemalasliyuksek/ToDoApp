@@ -1,4 +1,3 @@
-<!-- res/values/strings.xml dosyasını güncelleyin -->
 <resources>
     <string name="app_name">ToDoApp</string>
     <string name="add_todo">Yapılacak Ekle</string>
