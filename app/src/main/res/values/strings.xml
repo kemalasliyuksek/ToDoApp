@@ -1,3 +1,16 @@
+<!-- res/values/strings.xml dosyasını güncelleyin -->
 <resources>
     <string name="app_name">ToDoApp</string>
+    <string name="add_todo">Yapılacak Ekle</string>
+    <string name="edit_todo">Yapılacak Düzenle</string>
+    <string name="delete_todo">Yapılacak Sil</string>
+    <string name="search_todos">Yapılacakları Ara</string>
+    <string name="todo_detail">Yapılacak Detayı</string>
+    <string name="todo_id">ID:</string>
+    <string name="todo_name">Yapılacak:</string>
+    <string name="save">Kaydet</string>
+    <string name="edit">Düzenle</string>
+    <string name="todo_added">Yapılacak eklendi</string>
+    <string name="todo_updated">Yapılacak güncellendi</string>
+    <string name="todo_deleted">Yapılacak silindi</string>
 </resources>
